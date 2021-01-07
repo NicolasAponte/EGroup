@@ -52,6 +52,14 @@
   "devDependencies": {
     "lite-server": "^2.6.1"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "Nicolas Aponte",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NicolasAponte/EGroup.git"
+  },
+  "bugs": {
+    "url": "https://github.com/NicolasAponte/EGroup/issues"
+  },
+  "homepage": "https://github.com/NicolasAponte/EGroup#readme"
 }
