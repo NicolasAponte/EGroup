@@ -36,3 +36,85 @@
     transform: rotate(360deg);
   }
 }
+
+.text-home {
+  color:#9d341fe7;
+  text-align: justify;
+}
+
+.jumbotron {
+  margin-top: 45px;
+  background-color: #fca998;
+  padding-bottom: 10px;
+  
+}
+
+
+@media only screen and (max-width: 991px) {
+  .jumbotron {
+    margin-top: 35px;
+  }
+}
+
+.navbar-dark {
+  background-color: #ff6546;
+}
+
+
+.row-header {
+  justify-items: space-between;
+}
+
+.contenido {
+  margin-top: 95px;
+}
+
+.container-header {
+  margin:0px 0px;  
+  padding:10px auto;
+}
+
+
+.info-header {
+  color: #fae7e4d5;
+  font-size: 1.2vw;
+  padding-left: 150px;
+}
+
+@media only screen and (max-width: 1199px) {
+  .info-header { 
+     padding-left: 100px;
+  }
+}
+
+
+@media only screen and (max-width: 992px) {
+  .mapa-footer { 
+     margin-left: 10px;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  .title-header { 
+     font-size: 4vw; 
+     margin-top: 10px;
+  }
+}
+
+.pie-pagina {
+  margin: 20px 0px 0px 0px;
+  padding: 10px 0px 10px 0px;
+  background-color: #ff6546d5;
+}
+
+@media only screen and (max-width: 767px) {
+  .title-home { 
+     font-size: 7vw; 
+  }
+}
+
+
+
+
+
+
